@@ -1,0 +1,5 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="camera_background">#000000</color>
+    <color name="status_text">#FFFFFF</color>
+</resources>

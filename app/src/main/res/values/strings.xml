@@ -1,0 +1,4 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="status_align_markers">Align all six markers</string>
+</resources>
